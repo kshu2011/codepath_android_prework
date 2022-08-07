@@ -1,10 +1,10 @@
 # Android Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kevin**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
